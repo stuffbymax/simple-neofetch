@@ -1,9 +1,5 @@
 # Simple Neofetch
 **note**: only for linux users :)
-
-***
-![e](screenshot.png)
-
 ***
 
 Installation:
